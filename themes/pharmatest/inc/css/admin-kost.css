@@ -1,0 +1,52 @@
+#links-gallery-ul li:nth-child(2){
+display:none;
+}
+#brands-slider-ul li:nth-child(1),#brands-slider-ul li:nth-child(2){
+    display:none;
+}
+#certificates-ul li:nth-child(3), #certificates-ul li:nth-child(2)
+{
+display:none;
+}
+#video-slider-ul li:nth-child(1),#video-slider-ul li:nth-child(2)
+{
+    display:none;
+}
+#r_opt-video-slider .redux_slides_add_remove{
+display:none;
+}
+#r_opt-faq1-tab .redux_slides_add_remove{
+    display:none;
+}
+#r_opt-faq2-tab .redux_slides_add_remove{
+    display:none;
+}
+#r_opt-faq3-tab .redux_slides_add_remove{
+    display:none;
+}
+#r_opt-faq4-tab .redux_slides_add_remove{
+    display:none;
+}
+#r_opt-faq5-tab .redux_slides_add_remove{
+    display:none;
+}
+#faq1-tab-ul li:nth-child(3)
+{
+    display:none;
+}
+#faq2-tab-ul li:nth-child(3)
+{
+    display:none;
+}
+#faq3-tab-ul li:nth-child(3)
+{
+    display:none;
+}
+#faq4-tab-ul li:nth-child(3)
+{
+    display:none;
+}
+#faq5-tab-ul li:nth-child(3)
+{
+    display:none;
+}

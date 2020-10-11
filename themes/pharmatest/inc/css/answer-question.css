@@ -1,0 +1,119 @@
+.qa-form{
+  background-color: #9beebe;
+  border-radius: 15px;
+}
+.upper-form__content{
+  margin-bottom:15px;
+}
+ .qa-form .woocommerce .cf-form-fake.button
+{
+  max-width:220px;
+  margin-top:20px;
+}
+.upper-form__title {
+  margin: auto;
+  font-size: 26px;
+  font-weight: 300;
+  padding: 20px 0;
+}
+.upper-form__ltitle {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.2em;
+}
+.upper-form__mid {
+  padding-right: 30px;
+  padding-left: 30px;
+  background-size: cover;
+
+  background-position-x: center;
+  background-position-y: top;
+  margin: 0 15px;
+}
+
+.upper-form__ltext {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height:1.5em;
+}
+
+.faq-form__title {
+  margin-bottom: 15px;
+}
+.faq-form__rblock{
+  width:100%;
+}
+.faq-form__block {
+  margin-bottom: 30px;
+  background: #f2f5fc;
+  border: 1px solid #1c7ece;
+  padding: 15px;
+  border-radius: 13px;
+  word-break: break-word;
+}
+.faq-form__time {
+  text-align: right;
+  font-size: 14px;
+  color: #656565;
+}
+.faq-form__avatar {
+  max-width: 60px;
+  max-height: 60px;
+}
+.faq-form__image {
+  max-width: 100%;
+  max-height: 100%;
+}
+.faq-form__answer {
+  margin-top: 10px;
+  border-top: 3px solid #419be5;
+  padding: 5px;
+  background-color: #Fff;
+  padding-bottom: 10px;
+}
+.faq-form__qtext {
+  font-size: 16px;
+  padding: 5px;
+  line-height:1.5em;
+}
+.faq-form__qtitle {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 5px;
+}
+.faq-form__qsign {
+  text-align: right;
+  padding: 5px;
+
+}
+.faq-form__atitle {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 5px;
+}
+.faq-form__atext {
+  padding-left: 5px;
+  font-size: 16px;
+  line-height:1.5em;
+}
+.page-counter{
+  margin-bottom:5px;
+}
+
+
+@media (max-width: 767px) {
+
+  .upper-form__content{
+    flex-wrap:wrap;
+  }
+  .upper-form__mid{
+    display:none;
+  }
+  .upper-form__right{
+    margin-top:15px;
+  }
+  .qa-form{
+  max-width: 400px;
+  margin: auto;
+  }
+}

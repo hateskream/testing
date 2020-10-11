@@ -1,0 +1,9 @@
+.title-404{
+	width:100%;
+	padding:30px;
+	img{
+		@media (max-width:575px){
+			display:none;
+		}
+	}
+}

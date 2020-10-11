@@ -1,0 +1,21 @@
+.post-item
+{
+    width:22%;
+    margin:30px 1.5%;
+}
+.post-item h2{
+    margin:10px 0;
+    font-size:22px;
+}
+.post-image{
+    height:150px;
+    background-position:center;
+}
+.post-image:hover{
+    opacity:0.5;
+}
+.post-description{
+   max-height:4.5em;
+    line-height:1.5em;
+    overflow:hidden;
+}
